@@ -1,3 +1,4 @@
+//search area
 $('#search').keyup(function(){
     var searhField=$('#search').val();
     var myExp=new RegExp(searhField,"i");
