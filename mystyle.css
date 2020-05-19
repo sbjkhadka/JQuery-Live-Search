@@ -1,0 +1,49 @@
+body{
+    background: antiquewhite;
+}
+#maindiv{
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    background-color: #171127;
+    /* height:100vh; */
+    padding-bottom: 10px;
+}
+ul{
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+    list-style-type:none;
+    
+}
+li{
+    border: 1px solid wheat;
+    margin-bottom: 10px;
+    padding:10px;
+    color:wheat;
+}
+img{
+    float:right;
+    clear: right;
+    margin:10px;
+}
+p.description{
+    text-align: justify;
+    text-indent: 2em;
+    color:wheat;
+}
+p.elsewhere{
+    color: thistle;
+}
+h2,h3{
+    color: white;
+}
+#searcharea{
+    text-align: center;
+    margin-bottom: 10px;;
+}
+#search{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
